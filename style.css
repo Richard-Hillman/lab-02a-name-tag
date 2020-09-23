@@ -39,6 +39,10 @@ p {
     margin: 0;
 }
 
+input {
+    width: 100px;
+}
+
 .top {
     font-size: 4em;
     font-weight: 800;
@@ -49,7 +53,7 @@ p {
 }
 
 .bottom {
-    background-image url(dirt.png);
+    background-image: url(dirt.png);
     background-color: white;
     color: black;
     font-family: 'Dancing_Script' cursive;
@@ -63,3 +67,4 @@ p {
         justify-content: center;
         align-items: center;
 }
+
